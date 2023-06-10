@@ -1,0 +1,46 @@
+{
+  "common": {
+    "info": {
+      "deleteConfirm": "确定需要删除？",
+      "concealConfirm": "确定需要取消？",
+      "actionConfirm": "确定需要{{action}}?"
+    },
+    "warn": {
+      "valueNotActed": "{{value}}未{{action}}"
+    },
+    "error": {
+      "deleteFailed": "削除失敗",
+      "concealFailed": "取消失败",
+      "changeFailed": "变更失败",
+      "actionValueFailed": "{{value}}{{action}}失败",
+      "actionFailed": "{{action}}失败",
+      "permissionNotEnough": "没有足够的权限",
+      "invalidOperation": "非法操作"
+    },
+    "success": {
+      "beenDeleted": "已删除{{value}}",
+      "beenConcealed": "已取消{{value}}",
+      "beenChanged": "已变更{{value}}",
+      "beenOccupied": "已确保{{value}}",
+      "beenActed": "已{{action}}{{value}}"
+    }
+  },
+  "login": {
+    "error": {
+      "noId": "ID未输入",
+      "noPassword": "密码未输入",
+      "needContact": "请联络管理人员",
+      "wrongLoginInfo": "ID或者密码错误"
+    }
+  },
+  "orderList": {
+    "error": {
+      "alreadyBeenConcealed": "该商品是已取消商品"
+    }
+  },
+  "registerList": {
+    "error": {
+      "registerMoved": "入库品已进入订单,无法删除"
+    }
+  }
+}

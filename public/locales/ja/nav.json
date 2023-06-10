@@ -1,0 +1,13 @@
+{
+  "orderList": "注文一覧",
+  "inventory": "在庫一覧",
+  "shipment": "出荷一覧",
+  "registerList": "納品一覧",
+  "returnList": "返品一覧",
+  "transferList": "移動一覧",
+  "newOrder": "注文登録",
+  "newRegister": "納品登録",
+  "newShipment": "出荷登録",
+  "newReturn": "返品登録",
+  "newTransfer": "移動登録"
+}

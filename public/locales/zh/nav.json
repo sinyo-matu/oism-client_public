@@ -1,0 +1,13 @@
+{
+  "orderList": "订单一览",
+  "inventory": "库存一览",
+  "shipment": "发货一览",
+  "registerList": "入库一览",
+  "returnList": "退货一览",
+  "transferList": "移动一览",
+  "newOrder": "订单登录",
+  "newRegister": "入库登录",
+  "newShipment": "发货登录",
+  "newReturn": "退货登录",
+  "newTransfer": "移动登录"
+}

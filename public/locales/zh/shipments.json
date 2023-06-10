@@ -1,0 +1,24 @@
+{
+  "common": {
+    "changeTo": "变更为{{status}}吗？",
+    "noReadyToShip": "没有可以出货的订单",
+    "readyToShip": "可出货的订单",
+    "pleaseApplyOrder": "请登录需发货的订单",
+    "hasSameShipmentNoTransfers": "存在{{quantity}}件单号相同的移动",
+    "shipmentNo": "发货单号"
+  },
+  "status": {
+    "ongoing": "运输中",
+    "arrival": "已抵达"
+  },
+  "vendor": {
+    "yy": "友谊",
+    "ss": "七海",
+    "sd": "顺达",
+    "bc": "黒猫",
+    "ems": "EMS",
+    "ml": "国内",
+    "sj": "流通王",
+    "pml": "国内结"
+  }
+}

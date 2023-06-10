@@ -1,0 +1,46 @@
+{
+  "common": {
+    "info": {
+      "deleteConfirm": "本当に削除しますか？",
+      "concealConfirm": "本当にキャンセルしますか？",
+      "actionConfirm": "{{action}}しますか？"
+    },
+    "warn": {
+      "valueNotActed": "{{value}}が{{action}}されていません"
+    },
+    "error": {
+      "deleteFailed": "削除が失敗しました",
+      "concealFailed": "キャンセルが失敗しました",
+      "changeFailed": "変更が失敗しました",
+      "actionValueFailed": "{{value}}の{{action}}が失敗しました",
+      "actionFailed": "{{action}}が失敗しました",
+      "permissionNotEnough": "権限が不足しています",
+      "invalidOperation": "違法な操作です"
+    },
+    "success": {
+      "beenDeleted": "{{value}}が削除されました",
+      "beenConcealed": "{{value}}がキャンセルされました",
+      "beenChanged": "{{value}}が変更されました",
+      "beenOccupied": "{{value}}が確保されました",
+      "beenActed": "{{value}}が{{action}}されました"
+    }
+  },
+  "login": {
+    "error": {
+      "noId": "IDが入力されていません",
+      "noPassword": "パスワードが入力されていません",
+      "needContact": "管理者に連絡してください",
+      "wrongLoginInfo": "IDまたはパスワードが間違っています"
+    }
+  },
+  "orderList": {
+    "error": {
+      "alreadyBeenConcealed": "商品はキャンセル済みです"
+    }
+  },
+  "registerList": {
+    "error": {
+      "registerMoved": "納品分が注文されました、削除できません"
+    }
+  }
+}

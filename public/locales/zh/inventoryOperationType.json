@@ -1,0 +1,13 @@
+{
+  "arrival": "入库",
+  "createEmpty": "创建调货订单",
+  "deleteOrder": "订单删除",
+  "deleteRegister": "入库删除",
+  "updateTransfer": "移动更新",
+  "concealOrderItem": "订单取消",
+  "move": "移动",
+  "ordered": "创建现货订单",
+  "returned": "退还",
+  "deleteReturn": "退还取消",
+  "deleteTransfer": "移动取消"
+}

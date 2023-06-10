@@ -1,0 +1,13 @@
+{
+  "arrival": "納品",
+  "createEmpty": "取り寄せ注文発行",
+  "deleteOrder": "注文削除",
+  "deleteRegister": "納品書削除",
+  "updateTransfer": "移動更新",
+  "concealOrderItem": "注文キャンセル",
+  "move": "移動",
+  "ordered": "現品注文発行",
+  "returned": "返品",
+  "deleteReturn": "返品取消",
+  "deleteTransfer": "移動取消"
+}

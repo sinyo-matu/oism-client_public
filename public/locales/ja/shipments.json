@@ -1,0 +1,24 @@
+{
+  "common": {
+    "changeTo": "{{status}}に変更しますか？",
+    "noReadyToShip": "出荷可能な注文がありません",
+    "readyToShip": "出荷可能な注文",
+    "pleaseApplyOrder": "出荷品を登録してください",
+    "hasSameShipmentNoTransfers": "Noが同じ移動が{{quantity}}件存在する",
+    "shipmentNo": "追跡ナンバー"
+  },
+  "status": {
+    "ongoing": "輸送中",
+    "arrival": "着済み"
+  },
+  "vendor": {
+    "yy": "友誼",
+    "ss": "七海",
+    "sd": "顺达",
+    "bc": "黒猫",
+    "ems": "EMS",
+    "ml": "国内",
+    "sj": "流通王",
+    "pml": "国内済"
+  }
+}
